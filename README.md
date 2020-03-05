@@ -9,6 +9,6 @@ Practice Repository
 
 # **How To Run Program**
 <ol>
-<li>Download utilities.py and main</li>
-  <li>From main.py, call utilitie.py and then enter team names</li>
+><li>Download utilities.py and main</li>
+  ><li>From main.py, call utilitie.py and then enter team names</li>
   </ol>
